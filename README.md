@@ -1,6 +1,6 @@
-# 🎧 Music Player – CodeAlpha Internship Project
+# 🎧 Responsive Music Player Web App
 
-This is a frontend web development project built as part of the **CodeAlpha Internship** program. It features a fully functional and visually appealing music player built using **HTML**, **CSS**, and **JavaScript**.
+A fully functional, responsive **Music Player Web App** built using **HTML, CSS, and JavaScript**. Designed with a modern aesthetic and packed with interactive features, this app offers a smooth music experience across all devices.
 
 ---
 
@@ -19,8 +19,13 @@ This is a frontend web development project built as part of the **CodeAlpha Inte
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live demo](https://rakshithdn.github.io/codealpha_tasks/)  
+🔗 [Click here to view the live demo](https://rakshithdn.github.io/responsive-music-player/)  
 > _Deployed using **GitHub Pages** from the root of this repository._
+
+---
+## 📸 Preview
+
+![Music Player Screenshot](Screenshot.png)
 
 ---
 
@@ -32,20 +37,10 @@ This is a frontend web development project built as part of the **CodeAlpha Inte
 - **Git & GitHub** (for version control and deployment)
 
 ---
-## 📌 About the Internship
-
-This project was completed as part of the **CodeAlpha Frontend Internship**, which focuses on building hands-on skills in:
-- UI/UX design
-- Web interactions
-- Real-world project structure
-- Responsive development
-
----
 
 ## 🙋‍♂️ Author
 
 **Rakshith D N**  
-Frontend Intern @ [CodeAlpha](https://codealpha.tech/)  
 🔗 [GitHub Profile](https://github.com/RakshithDN)
 
 ---
